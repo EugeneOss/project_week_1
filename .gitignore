@@ -2,6 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.pkl
+*.cbm
+*.parquet
 
 # C extensions
 *.so
