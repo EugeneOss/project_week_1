@@ -1,0 +1,19 @@
+# Игнорируем техническое
+.git/
+.gitignore
+.python-version
+.venv/
+
+# Локальные артефакты и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.out
+.DS_Store
+
+# Тебе не нужны только конкретные файлы
+README.md
+test.ipynb
+notebooks/catboost_info/
