@@ -6,6 +6,9 @@ __pycache__/
 *.cbm
 *.parquet
 
+test.ipynb
+
+
 # C extensions
 *.so
 
